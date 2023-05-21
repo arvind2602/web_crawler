@@ -52,7 +52,7 @@ const Login = () => {
           <p className="par-h">🤖AI-enabled technological solution for 🚨 actionable Crime Intelligence 🕵️‍♂️ from the Deep and Dark Web</p>
           <input type="text" required placeholder="Enter Your Username" />
           <input type="password" placeholder="Password" required />
-          <button type="submit"><a href="http://localhost:3000/admin">Continue</a></button>
+          <button type="submit"><a href="https://euphonious-dieffenbachia-d1c273.netlify.app/">Continue</a></button>
         </div>
         <div className="sub1 sub0">
           <Box sx={{ maxWidth: 400 }}>
